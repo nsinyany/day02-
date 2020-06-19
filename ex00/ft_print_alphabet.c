@@ -6,13 +6,12 @@
 /*   By: nsinyany <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/18 09:46:09 by nsinyany          #+#    #+#             */
-/*   Updated: 2020/06/19 12:05:42 by nsinyany         ###   ########.fr       */
+/*   Updated: 2020/06/19 15:31:39 by nsinyany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h> 
+void ft_putchar()
 
-int main()
 {
 	putchar('a');
 	putchar('b');
