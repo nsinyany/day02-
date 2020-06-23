@@ -6,7 +6,7 @@
 /*   By: event <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/21 09:20:31 by event             #+#    #+#             */
-/*   Updated: 2020/06/23 12:35:08 by nsinyany         ###   ########.fr       */
+/*   Updated: 2020/06/23 12:37:40 by nsinyany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,12 +20,5 @@ void ft_print_numbers(){
 	putchar('6');
 	putchar('7');
 
-}
-
-int main(){
-
-	ft_print_numbers();
-	return 0;
-	
 }
 
