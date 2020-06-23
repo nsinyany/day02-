@@ -6,14 +6,26 @@
 /*   By: event <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/21 09:20:31 by event             #+#    #+#             */
-/*   Updated: 2020/06/21 09:25:32 by event            ###   ########.fr       */
+/*   Updated: 2020/06/23 12:35:08 by nsinyany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 void ft_print_numbers(){
 	
-	printf("1, 2, 3, 4 ,5 , 6, 7, 8, 9, 10.");
+	putchar('1');
+	putchar('2');
+	putchar('3');
+	putchar('4');
+	putchar('5');
+	putchar('6');
+	putchar('7');
 
 }
 
+int main(){
+
+	ft_print_numbers();
+	return 0;
+	
+}
 
