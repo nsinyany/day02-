@@ -6,11 +6,11 @@
 /*   By: nsinyany <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/18 11:33:53 by nsinyany          #+#    #+#             */
-/*   Updated: 2020/06/19 12:51:57 by nsinyany         ###   ########.fr       */
+/*   Updated: 2020/06/23 12:31:20 by nsinyany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int main()
+char ft_putchar()
 {
 	putchar('z');
 	putchar('y');
@@ -39,6 +39,4 @@ int main()
 	putchar('b');
 	putchar('a');
 	putchar('\n');
-
-	return 0;
 }
